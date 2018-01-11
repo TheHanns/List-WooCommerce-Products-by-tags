@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: List WooCommerce Products by tags
- * Plugin URI: http://www.remicorson.com/list-woocommerce-products-by-tags/
+ * Plugin URI: https://github.com/TheHanns/List-WooCommerce-Products-by-tags
  * Description: List WooCommerce products using a simple shortcode, eg: [woo_products_by_tags tags="shoes,socks"]
  * Version: 1.0
  * Author: David Royo
